@@ -1,0 +1,7 @@
+.child{
+
+    width: 33%; 
+    height: 600px;
+    border: 1px solid grey;
+    float: left;
+}
